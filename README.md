@@ -4,7 +4,7 @@
 
 This is project that uses two ML models: Decision tree, Logistic regression to predict wthether the tweet contain hate, offensive, or neither hate or offensive language.
 
-## Prerequsite
+## Prerequisite
 
 ```powershell
 pip install  pandas
