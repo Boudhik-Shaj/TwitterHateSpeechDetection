@@ -1,4 +1,4 @@
-# TwitterHateSpeechDetection
+# Twitter Hate Speech Detection
 
 
 
